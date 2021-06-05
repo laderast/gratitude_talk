@@ -87,4 +87,9 @@ tweets %>% tidyr::drop_na(funcs) %>% count(funcs) %>%
 
 Thanks to the BSTA 504 Students!
 
+---
+class: center, middle
+# https://laderast.github.io/gratitude_talk
+
+## https://ready4r.netlify.app
 
